@@ -1,0 +1,16 @@
+name: "site"
+title: "Luke W. Johnston"
+description: |
+  Luke W. Johnston's website.
+theme: theme.css
+output_dir: "public"
+navbar:
+  logo: https://secure.gravatar.com/avatar/5380e441ced47452a46f6707f15a7362
+  right:
+    - icon: fas fa-home
+      href: index.html
+    - text: "Projects"
+      href: projects.html
+    - text: "CV"
+      href: https://cv.lukewjohnston.com/
+output: distill::distill_article

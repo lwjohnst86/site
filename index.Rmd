@@ -1,0 +1,53 @@
+---
+title: 'Luke W. Johnston'
+description: |
+    Diabetes epidemiologist, R developer, teacher
+site: distill::distill_website
+---
+
+`r emo::ji("wave")` Welcome! <img src="images/luke-bio-pic.jpg" style="width:30%;border-radius:50%;float:right;padding-left:20px" alt="Luke's profile picture.">
+I am a researcher, teacher, and R developer. My work includes doing epidemiological
+studies on type 2 diabetes. I value openness, transparency, and accessibility.
+See my [current projects](projects.html) or my [CV](https://cv.lukewjohnston.com)
+for more details about my work.
+
+```{r, echo=FALSE, results='asis'}
+fa <- function(icon) {
+    as.character(fontawesome::fa(icon, height = "25px", fill = "navyblue"))
+}
+icon_links <- tibble::tribble(
+    ~icon, ~link,
+    "twitter", "https://twitter.com/lwjohnst",
+    "github", "https://github.com/lwjohnst86",
+    "gitlab", "https://gitlab.com/lwjohnst",
+    "stack-overflow", "https://stackoverflow.com/users/2632184",
+    "stack-exchange", "https://stackexchange.com/users/1992995",
+    "linkedin", "https://www.linkedin.com/in/luke-johnston-480365101/"
+)
+icon_links$icon <- purrr::map_chr(icon_links$icon, fa)
+html_links <- glue::glue_data(icon_links,
+    "<a href='{link}'>{icon}</a>"
+)
+html_links
+# clipr::write_clip(html_links)
+```
+
+<!-- TODO: Add later or maybe to another page. -->
+<!-- ## Values -->
+
+<!-- - Openness -->
+<!-- - Transparency -->
+<!-- - Accessibility via open access -->
+
+<!-- ## Guiding principles -->
+
+<!-- - Adhere as much as possible to modern, fair, open, rigorous, and transparent -->
+<!-- approaches to doing science, teaching, and software development. -->
+<!-- - Whenever and wherever possible, use plain, accessible, and inclusive language. -->
+<!-- - Wherever possible, design and build projects that encourage community -->
+<!-- involvement and contributions. -->
+<!-- - As much as possible, carefully choose and submit to publication outlets -->
+<!-- based on whether their principles, values, and activity reflects the -->
+<!-- Values stated above. -->
+
+<!-- TODO: Link to rostools manifesto once it is done -->

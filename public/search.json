@@ -1,0 +1,28 @@
+{
+  "articles": [
+    {
+      "path": "blog.html",
+      "title": "Blog",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-01-08T22:50:06-05:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Luke W. Johnston",
+      "description": "Diabetes epidemiologist, R developer, teacher\n",
+      "author": [],
+      "contents": "\n👋 Welcome!  I am a researcher, teacher, and R developer. My work includes doing epidemiological studies on type 2 diabetes. I value openness, transparency, and accessibility. See my current projects or my CV for more details about my work.\n\n     \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "last_modified": "2021-01-08T22:50:07-05:00"
+    },
+    {
+      "path": "projects.html",
+      "title": "Current Projects",
+      "description": "Projects encompass diabetes research, research software development, and\nteaching.",
+      "author": [],
+      "contents": "\nThe metabolic consequences of adverse early life conditions and subsequent risk for adult type 2 diabetes\nThis is my main funded research. The aim is to investigate how early life conditions influence adult metabolic capacity and ultimately risk for type 2 diabetes. I’ll be using data from Denmark’s registers and linking to some cohort studies to apply causal structure learning methods to identify pathways between early life, adult metabolic characteristics, and diabetes. There are several sub-projects related to this main project:\nDenmark statistics application and study protocol: gitlab.com/lwjohnst/meld-protocol.\nR package development for the statistical method: NetCoupler\nAn analysis of the UK Biobank and InterAct using NetCoupler to build the pipeline for the data analysis of the register datasets.\nImproving data analysis and reproducibility within science\nThere are several projects that fall under this project heading. The main aim is to make reproducible and open science the default by making it the easiest, simplest, and fastest approach to doing science. These projects fall under (for now) three areas:\nDocumentation: Create and develop a philosophy (a “manifesto”) to explicitly state how reproducible and open science should be conducted from a practical point of view. Currently being developed at rostools/manifesto.\nR Packages: Using the manifesto as a guide, to build an ecosystem of tools that automate as many aspects of doing an open and reproducible research project and streamlining many other aspects. An example of one of these packages is the prodigenr package.\nTeaching: To integrate the ecosystem of R packages with a set of beginner-friendly and accessible training materials and documentation that future and current scientists can use to learn how to conduct reproducible and open science easily and simply. Developing and running workshops aimed at teaching researchers modern tools and skills to work openly and reproducibly. For an example of one of these projects, check out the r-cubed teaching material.\nOther projects related to teaching include two (completed and planned) books of teaching material for Research Software Engineering in R and Python and two books of teaching material for Novice R and Python. See the main website Merely Useful for links to these books.\n\n",
+      "last_modified": "2021-01-08T22:50:08-05:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
