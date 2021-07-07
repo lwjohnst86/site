@@ -21,7 +21,7 @@ several sub-projects related to this main project:
 1. Denmark statistics application and study protocol: [gitlab.com/lwjohnst/meld-protocol](https://gitlab.com/lwjohnst/meld-protocol).
 2. R package development for the statistical method: [NetCoupler](https://github.com/NetCoupler/NetCoupler)
 3. An analysis of the [UK Biobank](https://gitlab.com/lwjohnst/ecc.cmd.ukbiobank/)
-and [InterAct](https://gitlab.com/lwjohnst/ecc.mp.dm)
+and [InterAct](https://gitlab.com/lwjohnst/ecc.mp.dm) data
 using NetCoupler to build the pipeline for the data analysis of the 
 register datasets.
 
