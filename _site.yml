@@ -4,6 +4,7 @@ description: |
   Luke W. Johnston's website.
 theme: theme.css
 output_dir: "public"
+exclude: "DESCRIPTION"
 navbar:
   logo: https://secure.gravatar.com/avatar/5380e441ced47452a46f6707f15a7362
   search: false
