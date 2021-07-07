@@ -26,10 +26,10 @@ html {
   --aside-color:     rgba(0, 0, 0, 0.6);
   --fig-cap-color:   rgba(0, 0, 0, 0.6);
   /*-- Specify custom fonts ~~~ must be imported above   --*/
-  --heading-font:    sans-serif;
+  --heading-font:    "Oxygen", sans-serif;
   --mono-font:       monospace;
-  --body-font:       sans-serif;
-  --navbar-font:     sans-serif;  /* websites + blogs only */
+  --body-font:       "Oxygen", sans-serif;
+  --navbar-font:     "Oxygen", sans-serif;  /* websites + blogs only */
 }
 
 /*-- ARTICLE METADATA --*/
