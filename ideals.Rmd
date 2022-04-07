@@ -1,0 +1,26 @@
+---
+title: "Ideals"
+description: |
+  Ideals to follow.
+---
+
+
+<!-- TODO: Add later or maybe to another page. -->
+<!-- ## Values -->
+
+<!-- - Openness -->
+<!-- - Transparency -->
+<!-- - Accessibility via open access -->
+
+<!-- ## Guiding principles -->
+
+<!-- - Adhere as much as possible to modern, fair, open, rigorous, and transparent -->
+<!-- approaches to doing science, teaching, and software development. -->
+<!-- - Whenever and wherever possible, use plain, accessible, and inclusive language. -->
+<!-- - Wherever possible, design and build projects that encourage community -->
+<!-- involvement and contributions. -->
+<!-- - As much as possible, carefully choose and submit to publication outlets -->
+<!-- based on whether their principles, values, and activity reflects the -->
+<!-- Values stated above. -->
+
+<!-- TODO: Link to rostools manifesto once it is done -->

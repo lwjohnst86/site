@@ -25,26 +25,7 @@ output:
 I am a diabetes epidemiologist, teacher, R user and developer, and open science
 advocate. My work includes doing epidemiological studies on type 2 diabetes and
 trying to improve reproducibility and open science adherence in scientific
-studies through training and R package development. I value openness,
+studies through training and software development. I value openness,
 transparency, and accessibility. See my [current projects](projects.html) or my
 [CV](https://cv.lukewjohnston.com) for more details about my work.
 
-<!-- TODO: Add later or maybe to another page. -->
-<!-- ## Values -->
-
-<!-- - Openness -->
-<!-- - Transparency -->
-<!-- - Accessibility via open access -->
-
-<!-- ## Guiding principles -->
-
-<!-- - Adhere as much as possible to modern, fair, open, rigorous, and transparent -->
-<!-- approaches to doing science, teaching, and software development. -->
-<!-- - Whenever and wherever possible, use plain, accessible, and inclusive language. -->
-<!-- - Wherever possible, design and build projects that encourage community -->
-<!-- involvement and contributions. -->
-<!-- - As much as possible, carefully choose and submit to publication outlets -->
-<!-- based on whether their principles, values, and activity reflects the -->
-<!-- Values stated above. -->
-
-<!-- TODO: Link to rostools manifesto once it is done -->
