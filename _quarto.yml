@@ -1,0 +1,44 @@
+project:
+  type: website
+  output-dir: docs
+  execute-dir: project
+  post-render:
+    - touch docs/.nojekyll
+
+website:
+  title: "Luke W. Johnston"
+  logo: "https://secure.gravatar.com/avatar/5380e441ced47452a46f6707f15a7362"
+  site-url: "https://lukewjohnston.com/"
+  repo-url: "https://github.com/lwjohnst86/site/"
+  search: false
+  navbar:
+    left:
+      - icon: "house-door"
+        href: "index.qmd"
+        text: " "
+    right:
+      - icon: "house-door"
+        href: index.qmd
+        text: " "
+      - text: "Projects"
+        href: projects.qmd
+      - text: Sites
+        menu:
+          - text: CV
+            href: https://cv.lukewjohnston.com
+          - text: Slides
+            href: https://slides.lwjohnst.com
+          - text: Posters
+            href: https://posters.lwjohnst.com
+
+format:
+  html:
+    theme:
+        - litera
+        - theme.scss
+    toc: true
+
+editor_options:
+  markdown:
+    wrap: 72
+    canonical: true

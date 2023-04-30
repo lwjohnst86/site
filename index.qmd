@@ -1,0 +1,16 @@
+---
+title: "The 1st Gothenburg Precision Nutrition Forum"
+subtitle: "Using Multi-OMICs for Data-Driven Systems Epidemiology - Towards Precision Nutrition"
+image: images/background-network.jpg
+about:
+    template: jolla
+    image-width: 20em
+    image-shape: rounded
+    links:
+        - text: "Scope"
+          href: "https://precision-nutrition-forum.github.io/2022/about.html"
+        - text: "Program"
+          href: "https://precision-nutrition-forum.github.io/2022/program.html"
+        - text: "Talks"
+          href: "https://precision-nutrition-forum.github.io/2022/talks.html"
+---
