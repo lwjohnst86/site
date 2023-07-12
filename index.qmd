@@ -1,16 +1,32 @@
 ---
-title: "The 1st Gothenburg Precision Nutrition Forum"
-subtitle: "Using Multi-OMICs for Data-Driven Systems Epidemiology - Towards Precision Nutrition"
-image: images/background-network.jpg
+title: "Luke W. Johnston"
+image: "images/profile.jpg"
 about:
     template: jolla
     image-width: 20em
     image-shape: rounded
     links:
-        - text: "Scope"
-          href: "https://precision-nutrition-forum.github.io/2022/about.html"
-        - text: "Program"
-          href: "https://precision-nutrition-forum.github.io/2022/program.html"
-        - text: "Talks"
-          href: "https://precision-nutrition-forum.github.io/2022/talks.html"
+        - text: Email
+          href: "mailto:lwjohnst@gmail.com"
+        - text: Twitter
+          href: "https://twitter.com/lwjohnst"
+        - text: GitHub
+          icon: github
+          href: "https://github.com/lwjohnst86"
+        - text: GitLab
+          href: "https://gitlab.com/lwjohnst"
+        # - text: StackOverflow
+        #   href: "https://stackoverflow.com/users/2632184"
+        # - text: StackExchange
+        #   href: "https://stackexchange.com/users/1992995"
+        - text: LinkedIn
+          href: "https://www.linkedin.com/in/luke-johnston-480365101/"
 ---
+
+:wave: :wave: I am a diabetes epidemiologist, teacher, R user and
+developer, and open science advocate. My work includes doing
+epidemiological studies on type 2 diabetes and trying to improve
+reproducibility and open science adherence in scientific studies through
+training and software development. I value openness, transparency, and
+accessibility. See my [current projects](projects.qmd) or my
+[CV](https://cv.lukewjohnston.com) for more details about my work.
