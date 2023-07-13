@@ -3,7 +3,7 @@ title: "Luke W. Johnston"
 image: "images/profile.jpg"
 about:
     template: jolla
-    image-width: 20em
+    image-width: 50em
     image-shape: rounded
     links:
         - text: Email
