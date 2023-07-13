@@ -4,7 +4,6 @@ project:
 
 website:
   title: "Luke W. Johnston"
-  favicon: "https://secure.gravatar.com/avatar/5380e441ced47452a46f6707f15a7362"
   site-url: "https://lukewjohnston.com/"
   repo-url: "https://github.com/lwjohnst86/site/"
   search: false
