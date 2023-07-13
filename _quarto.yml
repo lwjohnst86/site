@@ -9,8 +9,6 @@ website:
   search: false
   navbar:
     right:
-      - icon: "house-door"
-        href: index.qmd
       - text: "Projects"
         href: projects.qmd
       - text: Sites
