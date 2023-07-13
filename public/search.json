@@ -1,35 +1,30 @@
-{
-  "articles": [
-    {
-      "path": "blog.html",
-      "title": "Blog",
-      "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2022-04-07T19:43:32+02:00"
-    },
-    {
-      "path": "ideals.html",
-      "title": "Ideals",
-      "description": "\nteaching.",
-      "author": [],
-      "contents": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-      "last_modified": "2022-04-07T19:43:32+02:00"
-    },
-    {
-      "path": "index.html",
-      "title": "Luke W. Johnston",
-      "author": [],
-      "contents": "\n\n          \n          \n          \n          \n          Luke W. Johnston\n          \n          \n          \n          \n          \n          Projects\n          \n          \n          Sites\n           \n          ▾\n          \n          \n          CV\n          Slides\n          Posters\n          \n          \n          ☰\n          \n          \n      \n        \n          \n            Luke W. Johnston\n          \n          \n            \n              👋 I am a diabetes epidemiologist, teacher, R user and\n              developer, and open science advocate. My work includes\n              doing epidemiological studies on type 2 diabetes and\n              trying to improve reproducibility and open science\n              adherence in scientific studies through training and\n              software development. I value openness, transparency, and\n              accessibility. See my current\n              projects or my CV for more\n              details about my work.\n            \n            \n              👋 I am a diabetes epidemiologist, teacher, R user and\n              developer, and open science advocate. My work includes\n              doing epidemiological studies on type 2 diabetes and\n              trying to improve reproducibility and open science\n              adherence in scientific studies through training and\n              software development. I value openness, transparency, and\n              accessibility. See my current\n              projects or my CV for more\n              details about my work.\n            \n          \n\n          \n            \n              \n                  \n                    \n                      Email\n                    \n                  \n                \n                                \n                  \n                    \n                      Twitter\n                    \n                  \n                \n                                \n                  \n                    \n                      GitHub\n                    \n                  \n                \n                                \n                  \n                    \n                      GitLab\n                    \n                  \n                \n                                \n                  \n                    \n                      LinkedIn\n                    \n                  \n                \n                              \n          \n\n          \n            \n              \n                                \n                  \n                    Email\n                  \n                \n                                \n                  \n                    Twitter\n                  \n                \n                                \n                  \n                    GitHub\n                  \n                \n                                \n                  \n                    GitLab\n                  \n                \n                                \n                  \n                    LinkedIn\n                  \n                \n                              \n            \n          \n        \n      \n    \n\n    \n    \n    \n          © Copyright 2021 Luke W. Johnston.\n          \n          \n\n    \n  ",
-      "last_modified": "2022-04-07T19:43:32+02:00"
-    },
-    {
-      "path": "projects.html",
-      "title": "Current Projects",
-      "description": "Projects encompass diabetes research, research software development, and\nteaching.",
-      "author": [],
-      "contents": "\nA\nframework for an open and scalable infrastructure for health data\nexemplified by the DD2 initiative\nThis is a software project where we aim to build an open source data\ninfrastructure framework that makes it easier to connect data\ncollectors, researchers, clinicians, and the general public, with the\ndata, documentation, and findings within health studies. We will be\ncreating this framework in such a way that other research groups and\ncompanies, who might be unable to adequately invest in building\ninfrastructures of this type on their own, can relatively easily\nimplement it, and modify as needed, for their own purposes. Check out\nthe project\nwebsite for a detailed description of what we will be doing.\nThe\nmetabolic consequences of adverse early life conditions and subsequent\nrisk for adult type 2 diabetes\nThis is my main ‘classic’ research. The aim is to investigate how\nearly life conditions influence adult metabolic capacity and ultimately\nrisk for type 2 diabetes. I’ll be using data from Denmark’s registers\nand linking to some cohort studies to apply causal structure learning\nmethods to identify pathways between early life, adult metabolic\ncharacteristics, and diabetes. There are several sub-projects related to\nthis main project:\nDenmark statistics application and study protocol: gitlab.com/lwjohnst/meld-protocol.\nR package development for the statistical method: NetCoupler\nAn analysis of the UK Biobank and\nInterAct data using\nNetCoupler to build the pipeline for the data analysis of the register\ndatasets.\nImproving\ndata analysis and reproducibility within science\nThere are several projects that fall under this project heading. The\nmain aim is to make reproducible and open science the default by making\nit the easiest, simplest, and fastest approach to doing science. These\nprojects fall under (for now) three areas:\nDocumentation: Create and develop a philosophy (a\n“manifesto”) to explicitly state how reproducible and open science\nshould be conducted from a practical point of view. Currently (slowly)\nbeing developed at rostools/manifesto.\nR Packages: Using the manifesto as a guide, to\nbuild an ecosystem of tools that automate as many aspects of doing an\nopen and reproducible research project and streamlining many other\naspects. An example of one of these packages is the prodigenr package.\nTeaching: To integrate the ecosystem of R packages\nwith a set of beginner-friendly and accessible training materials and\ndocumentation that future and current scientists can use to learn how to\nconduct reproducible and open science easily and simply. Developing and\nrunning workshops aimed at teaching researchers modern tools and skills\nto work openly and reproducibly. For an example of one of these\nprojects, check out the r-cubed teaching\nmaterial.\nOther projects related to teaching include two (completed and\nplanned) books of teaching material for Research Software Engineering in\nR and Python and two books of teaching material for Novice R and Python.\nSee the main website Merely\nUseful for links to these books.\n\n",
-      "last_modified": "2022-04-07T19:43:32+02:00"
-    }
-  ],
-  "collections": ["posts/posts.json"]
-}
+[
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Current Projects",
+    "section": "",
+    "text": "This is a software project where we aim to build an open source data infrastructure framework that makes it easier to connect data collectors, researchers, clinicians, and the general public, with the data, documentation, and findings within health studies. We are creating this framework in a way that allows other research groups and companies, who might be unable to adequately invest in building infrastructures of this type on their own, to relatively easily implement it, and modify as needed, for their own purposes. Check out the project website for a detailed description of what we will be doing."
+  },
+  {
+    "objectID": "projects.html#improving-data-analysis-and-reproducibility-within-science",
+    "href": "projects.html#improving-data-analysis-and-reproducibility-within-science",
+    "title": "Current Projects",
+    "section": "Improving data analysis and reproducibility within science",
+    "text": "Improving data analysis and reproducibility within science\nThere are several projects that fall under this project heading. The main aim is to make reproducible and open science the default by making it the easiest, simplest, and fastest approach to doing science. These projects fall under (for now) three areas:\n\nDocumentation: Create and develop a philosophy (a “manifesto”) to explicitly state how reproducible and open science should be conducted from a practical point of view. Currently (slowly) being developed at rostools/manifesto.\nR Packages: Using the manifesto as a guide, to build an ecosystem of tools that automate as many aspects of doing an open and reproducible research project and streamlining many other aspects. An example of one of these packages is the prodigenr package.\nTeaching: To integrate the ecosystem of R packages with a set of beginner-friendly and accessible training materials and documentation that future and current scientists can use to learn how to conduct reproducible and open science easily and simply. Developing and running workshops aimed at teaching researchers modern tools and skills to work openly and reproducibly. For an example of one of these projects, check out the r-cubed teaching material.\n\nOther projects related to teaching include two (completed and planned) books of teaching material for Research Software Engineering in R and Python and two books of teaching material for Novice R and Python. See the main website Merely Useful for links to these books."
+  },
+  {
+    "objectID": "projects.html#the-metabolic-consequences-of-adverse-early-life-conditions-and-subsequent-risk-for-adult-type-2-diabetes",
+    "href": "projects.html#the-metabolic-consequences-of-adverse-early-life-conditions-and-subsequent-risk-for-adult-type-2-diabetes",
+    "title": "Current Projects",
+    "section": "The metabolic consequences of adverse early life conditions and subsequent risk for adult type 2 diabetes",
+    "text": "The metabolic consequences of adverse early life conditions and subsequent risk for adult type 2 diabetes\nThis is my main ‘classic’ research. The aim is to investigate how early life conditions influence adult metabolic capacity and ultimately risk for type 2 diabetes. I’m using data from Denmark’s registers and linking to some cohort studies to apply causal structure learning methods to identify pathways between early life, adult metabolic characteristics, and diabetes. There are several sub-projects related to this main project:\n\nDenmark statistics application and project description: github.com/steno-aarhus/meld-project.\nR package development for the statistical method: NetCoupler\nAn analysis of the UK Biobank along with a helper R package and documentation on working within their online platform (ukbAid)."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Luke W. Johnston",
+    "section": "",
+    "text": "👋 👋 I am a diabetes epidemiologist, teacher, R user and developer, and open science advocate. My work includes doing epidemiological studies on type 2 diabetes and trying to improve reproducibility and open science adherence in scientific studies through training and education, software development, and organizational and social infrastructures. I value openness, transparency, and accessibility. See my current projects or my CV for more details about my work."
+  }
+]

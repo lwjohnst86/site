@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: public
+
+website:
+  title: "Luke W. Johnston"
+  site-url: "https://lukewjohnston.com/"
+  repo-url: "https://github.com/lwjohnst86/site/"
+  search: false
+  navbar:
+    right:
+      - text: "Projects"
+        href: projects.qmd
+      - text: Sites
+        menu:
+          - text: CV
+            href: https://cv.lukewjohnston.com
+          - text: Slides
+            href: https://slides.lwjohnst.com
+          - text: Posters
+            href: https://posters.lwjohnst.com
+    page-footer:
+      center:
+        - text: "© Copyright 2021-2023 Luke W. Johnston."
+
+format:
+  html:
+    from: markdown+emoji
+    theme:
+        - litera
+        - theme.scss
+    toc: true
+
+editor_options:
+  markdown:
+    wrap: 72
+    canonical: true
