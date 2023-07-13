@@ -2,24 +2,28 @@
 title: "Luke W. Johnston"
 image: "images/profile.jpg"
 about:
-    template: jolla
-    image-width: 50em
-    image-shape: rounded
+    template: trestles
+    image-width: 80%
+    image-shape: round
     links:
         - text: Email
+          icon: envelope
           href: "mailto:lwjohnst@gmail.com"
         - text: Twitter
+          icon: twitter
           href: "https://twitter.com/lwjohnst"
         - text: GitHub
           icon: github
           href: "https://github.com/lwjohnst86"
         - text: GitLab
+          icon: git
           href: "https://gitlab.com/lwjohnst"
         # - text: StackOverflow
         #   href: "https://stackoverflow.com/users/2632184"
         # - text: StackExchange
         #   href: "https://stackexchange.com/users/1992995"
         - text: LinkedIn
+          icon: linkedin
           href: "https://www.linkedin.com/in/luke-johnston-480365101/"
 ---
 
@@ -27,6 +31,7 @@ about:
 developer, and open science advocate. My work includes doing
 epidemiological studies on type 2 diabetes and trying to improve
 reproducibility and open science adherence in scientific studies through
-training and software development. I value openness, transparency, and
+training and education, software development, and organizational and
+social infrastructures. I value openness, transparency, and
 accessibility. See my [current projects](projects.qmd) or my
 [CV](https://cv.lukewjohnston.com) for more details about my work.
