@@ -1,11 +1,12 @@
 ---
 title: "Current Projects"
 description: |
-  Projects encompass diabetes research, research software development, and
-  teaching.
+  Projects are mainly on research software development,
+  teaching, and organizational and operational infrastructure.
+title-block-banner: true
 ---
 
-## Seedcase: An open and scalable software framework for health research data
+## Seedcase Project: An open and scalable software framework for health research data
 
 This is a software project where we aim to build an open source data
 infrastructure framework that makes it easier to connect data
@@ -16,7 +17,7 @@ who might be unable to adequately invest in building infrastructures of
 this type on their own, to relatively easily implement it, and modify as
 needed, for their own purposes. Check out the [project
 website](https://seedcase-project.org) for a detailed description of
-what we will be doing.
+what we are and will be doing.
 
 ## Improving data analysis and reproducibility within science
 
@@ -42,29 +43,20 @@ projects fall under (for now) three areas:
     Developing and running workshops aimed at teaching researchers
     modern tools and skills to work openly and reproducibly. For an
     example of one of these projects, check out the
-    [`r-cubed`](https://r-cubed.rostools.org/) teaching material.
-    -   Other projects related to teaching include two (completed and
-        planned) books of teaching material for Research Software
-        Engineering in R and Python and two books of teaching material
-        for Novice R and Python. See the main website [Merely
-        Useful](https://merely-useful.github.io/) for links to these
-        books.
+    [`r-cubed`](https://r-cubed.rostools.org/) teaching material for
+    three courses in R.
 
-## The metabolic consequences of adverse early life conditions and subsequent risk for adult type 2 diabetes
+## DP-Next: Sustainable Type 2 Diabetes Prevention for the 21st Century
 
-This is my main 'classic' research. The aim is to investigate how early
-life conditions influence adult metabolic capacity and ultimately risk
-for type 2 diabetes. I'm using data from Denmark's registers and linking
-to some cohort studies to apply causal structure learning methods to
-identify pathways between early life, adult metabolic characteristics,
-and diabetes. There are several sub-projects related to this main
-project:
+We received a grant from a Steno National Collaborative grant from Novo
+Nordisk Foundation to develop a sustainably effective strategy for
+prevention of Type 2 Diabetes in Denmark, Greenland and the Faroe
+Islands. We collaborate across all Danish Steno Diabetes Centers. A more
+detailed overview of this project can be found on our [project
+website](https://steno-aarhus.github.io/dp-next/).
 
-1.  Denmark statistics application and project description:
-    [github.com/steno-aarhus/meld-project](https://steno-aarhus.github.io/meld-project/).
-2.  R package development for the statistical method:
-    [NetCoupler](https://github.com/NetCoupler/NetCoupler)
-3.  An analysis of the [UK
-    Biobank](https://github.com/steno-aarhus/mesh/) along with a helper
-    R package and documentation on working within their online platform
-    ([ukbAid](https://steno-aarhus.github.io/ukbAid/)).
+My role is as lead for Work Package 1, which aims to build up the
+operational and reproducible aspects of collecting data, running
+analyses, and publishing results. See the
+[page](https://steno-aarhus.github.io/dp-next/wp1/) on the project
+website for more details.
