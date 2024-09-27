@@ -3,7 +3,7 @@ title: "Luke W. Johnston"
 image: "images/profile.jpg"
 about:
     template: trestles
-    image-width: 80%
+    image-width: 15em
     image-shape: round
     links:
         - text: Email
@@ -16,22 +16,26 @@ about:
           icon: github
           href: "https://github.com/lwjohnst86"
         - text: GitLab
-          icon: git
+          icon: gitlab
           href: "https://gitlab.com/lwjohnst"
-        # - text: StackOverflow
-        #   href: "https://stackoverflow.com/users/2632184"
-        # - text: StackExchange
-        #   href: "https://stackexchange.com/users/1992995"
+        - text: StackOverflow
+          href: "https://stackoverflow.com/users/2632184"
+          icon: stack-overflow
+        - text: StackExchange
+          href: "https://stackexchange.com/users/1992995"
         - text: LinkedIn
           icon: linkedin
           href: "https://www.linkedin.com/in/luke-johnston-480365101/"
 ---
 
-:wave: :wave: I am a diabetes epidemiologist, teacher, R user and
-developer, and open science advocate. My work includes doing
-epidemiological studies on type 2 diabetes and trying to improve
-reproducibility and open science adherence in scientific studies through
-training and education, software development, and organizational and
-social infrastructures. I value openness, transparency, and
-accessibility. See my [current projects](projects.qmd) or my
+:wave: :wave: I am a researcher, teacher, software developer, and open
+science advocate :grin: :tada:
+
+My current focus is on improving how data is structured and organized,
+on reproducibility of studies, and open science adherence by using
+training and education, software development of tools, and building
+organizational and social infrastructures.
+
+I *strongly* value openness, transparency, and accessibility. See my
+[current projects](projects.qmd) or my
 [CV](https://cv.lukewjohnston.com) for more details about my work.
