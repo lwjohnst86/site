@@ -9,9 +9,6 @@ about:
         - text: Email
           icon: envelope
           href: "mailto:lwjohnst@gmail.com"
-        - text: Twitter
-          icon: twitter
-          href: "https://twitter.com/lwjohnst"
         - text: GitHub
           icon: github
           href: "https://github.com/lwjohnst86"
