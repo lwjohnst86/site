@@ -1,7 +1,21 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Luke W. Johnston",
+    "section": "",
+    "text": "👋 👋 I am a researcher, teacher, software developer, and open science advocate 😁 🎉\nMy current focus is on improving how data is structured and organized, on reproducibility of studies, and open science adherence by using training and education, software development of tools, and building organizational and social infrastructures.\nI strongly value openness, transparency, and accessibility. See my current projects or my CV for more details about my work."
+  },
+  {
     "objectID": "projects.html",
     "href": "projects.html",
+    "title": "Current Projects",
+    "section": "",
+    "text": "This is a software project where we aim to build an open source data infrastructure framework that makes it easier to connect data collectors, researchers, clinicians, and the general public, with the data, documentation, and findings within health studies. We are creating this framework in a way that allows other research groups and companies, who might be unable to adequately invest in building infrastructures of this type on their own, to relatively easily implement it, and modify as needed, for their own purposes. Check out the project website for a detailed description of what we are and will be doing."
+  },
+  {
+    "objectID": "projects.html#seedcase-project-an-open-and-scalable-software-framework-for-health-research-data",
+    "href": "projects.html#seedcase-project-an-open-and-scalable-software-framework-for-health-research-data",
     "title": "Current Projects",
     "section": "",
     "text": "This is a software project where we aim to build an open source data infrastructure framework that makes it easier to connect data collectors, researchers, clinicians, and the general public, with the data, documentation, and findings within health studies. We are creating this framework in a way that allows other research groups and companies, who might be unable to adequately invest in building infrastructures of this type on their own, to relatively easily implement it, and modify as needed, for their own purposes. Check out the project website for a detailed description of what we are and will be doing."
@@ -14,38 +28,10 @@
     "text": "Improving data analysis and reproducibility within science\nThere are several projects that fall under this project heading. The main aim is to make reproducible and open science the default by making it the easiest, simplest, and fastest approach to doing science. These projects fall under (for now) three areas:\n\nDocumentation: Create and develop a philosophy (a “manifesto”) to explicitly state how reproducible and open science should be conducted from a practical point of view. Currently (slowly) being developed at rostools/manifesto.\nR Packages: Using the manifesto as a guide, to build an ecosystem of tools that automate as many aspects of doing an open and reproducible research project and streamlining many other aspects. An example of one of these packages is the prodigenr package.\nTeaching: To integrate the ecosystem of R packages with a set of beginner-friendly and accessible training materials and documentation that future and current scientists can use to learn how to conduct reproducible and open science easily and simply. Developing and running workshops aimed at teaching researchers modern tools and skills to work openly and reproducibly. For an example of one of these projects, check out the r-cubed teaching material for three courses in R."
   },
   {
-    "objectID": "projects.html#the-metabolic-consequences-of-adverse-early-life-conditions-and-subsequent-risk-for-adult-type-2-diabetes",
-    "href": "projects.html#the-metabolic-consequences-of-adverse-early-life-conditions-and-subsequent-risk-for-adult-type-2-diabetes",
-    "title": "Current Projects",
-    "section": "The metabolic consequences of adverse early life conditions and subsequent risk for adult type 2 diabetes",
-    "text": "The metabolic consequences of adverse early life conditions and subsequent risk for adult type 2 diabetes\nThis is my main ‘classic’ research. The aim is to investigate how early life conditions influence adult metabolic capacity and ultimately risk for type 2 diabetes. I’m using data from Denmark’s registers and linking to some cohort studies to apply causal structure learning methods to identify pathways between early life, adult metabolic characteristics, and diabetes. There are several sub-projects related to this main project:\n\nDenmark statistics application and project description: github.com/steno-aarhus/meld-project.\nR package development for the statistical method: NetCoupler\nAn analysis of the UK Biobank along with a helper R package and documentation on working within their online platform (ukbAid)."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Luke W. Johnston",
-    "section": "",
-    "text": "👋 👋 I am a researcher, teacher, software developer, and open science advocate 😁 🎉\nMy current focus is on improving how data is structured and organized, on reproducibility of studies, and open science adherence by using training and education, software development of tools, and building organizational and social infrastructures.\nI strongly value openness, transparency, and accessibility. See my current projects or my CV for more details about my work."
-  },
-  {
-    "objectID": "projects.html#seedcase-an-open-and-scalable-software-framework-for-health-research-data",
-    "href": "projects.html#seedcase-an-open-and-scalable-software-framework-for-health-research-data",
-    "title": "Current Projects",
-    "section": "",
-    "text": "This is a software project where we aim to build an open source data infrastructure framework that makes it easier to connect data collectors, researchers, clinicians, and the general public, with the data, documentation, and findings within health studies. We are creating this framework in a way that allows other research groups and companies, who might be unable to adequately invest in building infrastructures of this type on their own, to relatively easily implement it, and modify as needed, for their own purposes. Check out the project website for a detailed description of what we will be doing."
-  },
-  {
     "objectID": "projects.html#dp-next-sustainable-type-2-diabetes-prevention-for-the-21st-century",
     "href": "projects.html#dp-next-sustainable-type-2-diabetes-prevention-for-the-21st-century",
     "title": "Current Projects",
     "section": "DP-Next: Sustainable Type 2 Diabetes Prevention for the 21st Century",
     "text": "DP-Next: Sustainable Type 2 Diabetes Prevention for the 21st Century\nWe received a grant from a Steno National Collaborative grant from Novo Nordisk Foundation to develop a sustainably effective strategy for prevention of Type 2 Diabetes in Denmark, Greenland and the Faroe Islands. We collaborate across all Danish Steno Diabetes Centers. A more detailed overview of this project can be found on our project website.\nMy role is as lead for Work Package 1, which aims to build up the operational and reproducible aspects of collecting data, running analyses, and publishing results. See the page on the project website for more details."
-  },
-  {
-    "objectID": "projects.html#seedcase-project-an-open-and-scalable-software-framework-for-health-research-data",
-    "href": "projects.html#seedcase-project-an-open-and-scalable-software-framework-for-health-research-data",
-    "title": "Current Projects",
-    "section": "",
-    "text": "This is a software project where we aim to build an open source data infrastructure framework that makes it easier to connect data collectors, researchers, clinicians, and the general public, with the data, documentation, and findings within health studies. We are creating this framework in a way that allows other research groups and companies, who might be unable to adequately invest in building infrastructures of this type on their own, to relatively easily implement it, and modify as needed, for their own purposes. Check out the project website for a detailed description of what we are and will be doing."
   }
 ]
